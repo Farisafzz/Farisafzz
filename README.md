@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024 (and occasionally fixing them, too)<br>📚 I'm currently learning Laravel + React integration and database wizardry<br>🎯 Goals: Build a full-stack app without Googling every 5 minutes<br>🎲 Fun fact: My “temporary” debug console.log() lines tend to live longer than some projects</p>
+<p align="left">✨ Creating bugs since 2025 (and occasionally fixing them, too)<br>📚 I'm currently learning Laravel + React integration and database wizardry<br>🎯 Goals: Build a full-stack app without Googling every 5 minutes<br>🎲 Fun fact: My “temporary” debug console.log() lines tend to live longer than some projects</p>
 
 ###
 
